@@ -22,8 +22,7 @@ If our predicted open price is significantly different from the average trading 
 ### 3. Volatility Breakout Strategy:
 This strategy capitalizes on predicted drastic changes in the open price. If the predicted open price indicates a significant gap up or down from the previous day's close, it might be an indication of increased volatility. In such cases, traders can either follow the breakout direction or wait for potential reversals.
 
-🚀 Future Enhancements
-
+##**🚀 Future Enhancements
 Integrate more indicators to refine the Random Forest predictions.
 Explore other machine learning models for open price prediction.
 Backtest strategies with historical data to measure performance metrics.
